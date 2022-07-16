@@ -2,47 +2,47 @@
 	{
 		"alumno": "Giorgia",
 		"nota": 10,
-		"ranking":10
+		"ranking":1
 	},
 	{
 		"alumno": "Antonella",
 		"nota": 9,
-		"ranking":11
+		"ranking":250
 	},
 	{
 		"alumno": "Sofia",
 		"nota": 8,
-		"ranking":12
+		"ranking":210
 	},
 	{
 		"alumno": "Jorge",
 		"nota": 5,
-		"ranking":13
+		"ranking":450
 	},
 	{
 		"alumno": "Miriam",
 		"nota": 2,
-		"ranking":14
+		"ranking":435
 	},
 	{
 		"alumno": "Patricio",
 		"nota": 7,
-		"ranking":17
+		"ranking":170
 	},
 	{
 		"alumno": "Andres",
 		"nota": 1,
-		"ranking":15
+		"ranking":320
 	},
 	{
 		"alumno": "Ricardo",
 		"nota": 6,
-		"ranking":19
+		"ranking":190
 	},
 	{
 		"alumno": "Kerly",
 		"nota": 3,
-		"ranking":20
+		"ranking":298
 	}
 	
 ]
